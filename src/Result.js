@@ -64,6 +64,7 @@ export const Result = () => {
     return <Confetti />;
   }
 
+
   return (
     <>
       <MainContainer>
